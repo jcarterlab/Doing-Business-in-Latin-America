@@ -9,3 +9,14 @@ This notebook visualizes changes in the relative cost of doing business in Latin
 <br>
 
 !["Improvements in the cost of doing bsuiness in Latin America (2015-2019)"](improvements.png)
+
+<br>
+
+This visualization includes the following statistics obtained from the World Bank API and manipulated with SQL:
+
+- Total cost cuts (start-up % + property % + contract %)  
+- Start-up cost cuts (% of income per capita)  
+- Property registration cost cuts (% of property value)  
+- Contract enforcement cost cuts (% of claim)  
+- Total percentage costs still to cut  
+- Overall rank (lower is better)  
