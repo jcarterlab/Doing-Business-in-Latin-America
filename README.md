@@ -4,4 +4,4 @@ This notebook visualizes changes in the relative cost of doing business in Latin
 
 - The notebook used to access the World Bank API can be found [here.](world_bank_api.ipynb)
 - The SQL script used to manipulate the data can be found [here.](cuts.sql)
-- The full visualization notebook can be found [here.](visualize_data.ipynb)
+- The data visualization notebook can be found [here.](visualize_data.ipynb)
